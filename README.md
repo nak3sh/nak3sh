@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **c#**
 
-- 💬 Ask me about **lua**
+- 💬 Ask me about **lua, i try to solve it**
 
-- ⚡ Fun fact **league goated**
+- ⚡ Fun fact: **league goated**
 
 <h3 align="left">Connect with me: nakesh.</h3>
 <p align="left">
