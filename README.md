@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **league goated**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nakesh.</h3>
 <p align="left">
 </p>
 
